@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RSS</string>
+    <string name="rssfeed">http://leopoldomt.com/if1001/g1brasil.xml</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title">RSS Feed URL</string>
+    <string name="pref_default">http://leopoldomt.com/if1001/g1brasil.xml</string>
+    <string name="channel_name">channelName</string>
+    <string name="channel_description">channelDescription</string>
+</resources>
